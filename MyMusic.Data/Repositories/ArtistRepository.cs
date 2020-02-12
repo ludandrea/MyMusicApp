@@ -11,16 +11,14 @@ namespace MyMusic.Data.Repositories
         public ArtistRepository(MyMusicDbContext context) : base(context){ }
         public async Task<IEnumerable<Artist>> GetAllWithMusicsAsync()
         {
-            return await MyMusicDbContext.Artists
-                .Include(a => a.Musics)
-                .ToListAsync();
+            return await MyMusicDbContext.Artists.Include(a => a.Musics)
+                                                 .ToListAsync();
         }
 
         public Task<Artist> GetWithMusicsByIdAsync(int id)
         {
-            return MyMusicDbContext.Artists
-                .Include(a => a.Musics)
-                .SingleOrDefaultAsync(a => a.Id == id);
+            return MyMusicDbContext.Artists.Include(a => a.Musics)
+                                           .SingleOrDefaultAsync(a => a.Id == id);
         }
 
         private MyMusicDbContext MyMusicDbContext
