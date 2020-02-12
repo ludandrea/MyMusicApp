@@ -1,0 +1,11 @@
+C:\Projetos\MyMusic\MyMusic.Services\bin\Debug\netstandard2.0\MyMusic.Services.deps.json
+C:\Projetos\MyMusic\MyMusic.Services\bin\Debug\netstandard2.0\MyMusic.Services.dll
+C:\Projetos\MyMusic\MyMusic.Services\bin\Debug\netstandard2.0\MyMusic.Services.pdb
+C:\Projetos\MyMusic\MyMusic.Services\bin\Debug\netstandard2.0\MyMusic.Core.dll
+C:\Projetos\MyMusic\MyMusic.Services\bin\Debug\netstandard2.0\MyMusic.Core.pdb
+C:\Projetos\MyMusic\MyMusic.Services\obj\Debug\netstandard2.0\MyMusic.Services.csprojAssemblyReference.cache
+C:\Projetos\MyMusic\MyMusic.Services\obj\Debug\netstandard2.0\MyMusic.Services.AssemblyInfoInputs.cache
+C:\Projetos\MyMusic\MyMusic.Services\obj\Debug\netstandard2.0\MyMusic.Services.AssemblyInfo.cs
+C:\Projetos\MyMusic\MyMusic.Services\obj\Debug\netstandard2.0\MyMusic.Services.csproj.CopyComplete
+C:\Projetos\MyMusic\MyMusic.Services\obj\Debug\netstandard2.0\MyMusic.Services.dll
+C:\Projetos\MyMusic\MyMusic.Services\obj\Debug\netstandard2.0\MyMusic.Services.pdb
